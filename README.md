@@ -5,7 +5,7 @@ Currently, to get an app's permissions, one has to download the apk and parse th
 
 ## TODO List
 
-1. Scrap [android developers](https://developer.android.com/reference/android/Manifest.permission.html) to obtain all android default permission names;
+1. Scrap [android developers](https://developer.android.com/reference/android/Manifest.permission.html) to obtain all android default permission names. Done in `scrap_permission_names.sh`;
 
 2. Get all permission descriptions. This requires the following sub-steps:
 
