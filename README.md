@@ -9,7 +9,7 @@ Currently, to get an app's permissions, one has to download the apk and parse th
 
 2. Get all permission descriptions. This requires the following sub-steps:
 
-   2.1. Get permissions in "uses-permission" manifest format;
+   2.1. Get permissions in "uses-permission" manifest format. Done in `get_manifest_uses-permissions.sh`;;
 
    2.2. Write an android app requesting all permissions;
 
