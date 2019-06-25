@@ -21,6 +21,17 @@ Currently, to get an app's permissions, one has to download the apk and parse th
 
 When this todo list is complete, creating a mapping only requires step 1, 3 and 4. However, if google adds/updates permissions, step 2 must also be repeated.
 
+### Progress Tracker
+
+| Step | State | Outcome |
+| ---- | ----- | ------- |
+| 1.   | - [x] | `scrap_permission_names.sh` |
+| 2.1. | - [x] | `get_manifest_uses-permissions.sh` |
+| 2.2. | - [x] | android app in **/android** |
+| 2.3. | - [ ] (waiting for store approval) | (insert the link) |
+| 3.   | - [ ] | |
+| 4.   | - [ ] | |
+
 
 ## Caveats
 
