@@ -3,7 +3,7 @@
     <string name="content">This app has all android default permissions!\n
         More details:\n
         <a href="https://github.com/bluetrickpt/permission-description2name">Project Repo</a>\n
-        <a href="https://github.com/bluetrickpt/permission-description2name/blob/master/privacypolicy.txt">Privacy Policy (tldr: collects nothing)</a>
+        <a href="https://github.com/bluetrickpt/permission-description2name/blob/master/android/privacypolicy.txt">Privacy Policy (tldr: collects nothing)</a>
     </string>
 
 </resources>
