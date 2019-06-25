@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_PATH="outputs/"
+OUTPUT_PATH="../outputs/"
 OUTPUT_FILE="${OUTPUT_PATH}permission_names"
 
 BASE_URL="https://developer.android.com/reference/android/Manifest.permission"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_PATH="outputs/"
+OUTPUT_PATH="../outputs/"
 PERMISSION_NAME_FILE="${OUTPUT_PATH}permission_names"
 OUTPUT_FILE="${OUTPUT_PATH}permission_manifest"
 
