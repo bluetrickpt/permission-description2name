@@ -24,7 +24,7 @@ When this todo list is complete, creating a mapping only requires step 1, 3 and 
 
 ## Caveats
 
-Apparently, requiring some permissions in the android manifest requires having a direct functionality to support them. These permissions are related to SMS and CALL_LOG. According to my tests, these are the following permissions:
+Apparently, requiring some permissions in the android manifest requires having a direct functionality to support them, or otherwise, it gets rejected on the play store. These permissions are related to SMS and CALL_LOG. According to my tests, these are the following permissions:
 
     <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
     <uses-permission android:name="android.permission.READ_CALL_LOG"/>
