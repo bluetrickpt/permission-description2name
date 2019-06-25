@@ -25,12 +25,12 @@ When this todo list is complete, creating a mapping only requires step 1, 3 and 
 
 | Step | State | Outcome |
 | ---- | ----- | ------- |
-| 1.   | - [x] | `scrap_permission_names.sh` |
-| 2.1. | - [x] | `get_manifest_uses-permissions.sh` |
-| 2.2. | - [x] | android app in **/android** |
-| 2.3. | - [ ] (waiting for store approval) | (insert the link) |
-| 3.   | - [ ] | |
-| 4.   | - [ ] | |
+| 1.   | :ballot_box_with_check: | `scrap_permission_names.sh` |
+| 2.1. | :ballot_box_with_check: | `get_manifest_uses-permissions.sh` |
+| 2.2. | :ballot_box_with_check: | android app in **/android** |
+| 2.3. | :black_square_button: (waiting for store approval) | (insert the link) |
+| 3.   | :black_square_button: | |
+| 4.   | :black_square_button: | |
 
 
 ## Caveats
