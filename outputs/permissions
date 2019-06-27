@@ -1,0 +1,128 @@
+"retrieve system internal state": 
+"retrieve running apps": 
+"read sensitive log data": 
+"change/intercept network settings and traffic": 
+"find accounts on the device": 
+"read calendar events plus confidential information": 
+"add or modify calendar events and send email to guests without owners' knowledge": 
+"read your contacts": 
+"modify your contacts": 
+"approximate location (network-based)": 
+"precise location (GPS and network-based)": 
+"access extra location provider commands": 
+"directly call phone numbers": 
+"directly call any phone numbers": 
+"modify phone state": 
+"erase USB storage": 
+"access USB storage filesystem": 
+"read the contents of your USB storage": 
+"modify or delete the contents of your USB storage": 
+"take pictures and videos": 
+"record audio": 
+"view Wi-Fi connections": 
+"read phone status and identity": 
+"body sensors (like heart rate monitors)": 
+"view network connections": 
+"act as the AccountManagerService": 
+"read battery statistics": 
+"pair with Bluetooth devices": 
+"access Bluetooth settings": 
+"send sticky broadcast": 
+"change system display settings": 
+"change network connectivity": 
+"allow Wi-Fi Multicast reception": 
+"connect and disconnect from Wi-Fi": 
+"delete all app cache data": 
+"disable your screen lock": 
+"expand/collapse status bar": 
+"measure app storage space": 
+"full network access": 
+"close other apps": 
+"change your audio settings": 
+"control Near Field Communication": 
+"make app always run": 
+"read sync settings": 
+"run at startup": 
+"reorder running apps": 
+"force background apps to close": 
+"modify global animation speed": 
+"enable app debugging": 
+"set preferred apps": 
+"limit number of running processes": 
+"set time zone": 
+"set wallpaper": 
+"send Linux signals to apps": 
+"draw over other apps": 
+"make/receive SIP calls": 
+"control vibration": 
+"prevent device from sleeping": 
+"modify system settings": 
+"toggle sync on and off": 
+"set an alarm": 
+"install shortcuts": 
+"uninstall shortcuts": 
+"access checkin properties": 
+"bind to an accessibility service": 
+"choose widgets": 
+"bind to a condition provider service": 
+"interact with a device admin": 
+"bind to a dream service": 
+"interact with in-call screen": 
+"bind to an input method": 
+"bind to NFC service": 
+"bind to a notification listener service": 
+"bind to a print service": 
+"bind to a widget service": 
+"bind to a text service": 
+"bind to a TV input": 
+"bind to a voice interactor": 
+"bind to a VPN service": 
+"bind to a wallpaper": 
+"allow Bluetooth pairing by Application": 
+"send package removed broadcast": 
+"send SMS-received broadcast": 
+"send WAP-PUSH-received broadcast": 
+"capture audio output": 
+"enable or disable app components": 
+"control location update notifications": 
+"delete other apps' caches": 
+"delete apps": 
+"read/write to resources owned by diag": 
+"run in factory test mode": 
+"permission to install a location provider": 
+"directly install apps": 
+"manage document storage": 
+"reset system to factory defaults": 
+"control media playback and metadata access": 
+"update component usage statistics": 
+"record what you type and actions you take": 
+"read sync statistics": 
+"force device reboot": 
+"send respond-via-message events": 
+"set time": 
+"adjust your wallpaper size": 
+"disable or modify status bar": 
+"transmit infrared": 
+"modify battery statistics": 
+"modify the Google services map": 
+"modify secure system settings": 
+"read voicemail": 
+"write voicemails": 
+"add or remove accounts": 
+"read your own contact card": 
+"read your text messages (SMS or MMS)": 
+"receive text messages (MMS)": 
+"receive text messages (SMS)": 
+"send SMS messages": 
+"edit your text messages (SMS or MMS)": 
+"reroute outgoing calls": 
+"read call log": 
+"write call log": 
+"create accounts and set passwords": 
+"use accounts on the device": 
+"read Google service configuration": 
+"use any media decoder for playback": 
+"MMS Wakeup": 
+"receive data from Internet": 
+"receive text messages (WAP)": 
+"download files without notification": 

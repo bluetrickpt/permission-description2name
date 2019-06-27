@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_PATH="../outputs/"
+OUTPUT_PATH="outputs/"
 PERMISSION_NAME_FILE="${OUTPUT_PATH}permission_names"
 OUTPUT_FILE="${OUTPUT_PATH}permission_manifest"
 
@@ -21,9 +21,9 @@ comment_permissions=( "android.permission.PROCESS_OUTGOING_CALLS" \
 
 while read PERMISSION; do
     if [[ ! " ${comment_permissions[@]} " =~ " ${PERMISSION} " ]]; then
-        echo "<uses-permission android:name=\"${PERMISSION}\"/>" >> $OUTPUT_FILE
+        echo "<uses-permission android:name=${PERMISSION}/>" >> $OUTPUT_FILE
     else
-        echo "<!--uses-permission android:name=\"${PERMISSION}\"/-->" >> $OUTPUT_FILE
+        echo "<!--uses-permission android:name=${PERMISSION}/-->" >> $OUTPUT_FILE
         echo "Permission ${PERMISSION} commented out. See Caveats in README"
     fi
 done < $PERMISSION_NAME_FILE
